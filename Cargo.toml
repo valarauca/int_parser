@@ -1,0 +1,7 @@
+[package]
+name = "intparser"
+version = "1.0.0"
+authors = ["Wlaeder"]
+
+[dependencies]
+nom = "2.0.1"
